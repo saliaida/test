@@ -14,6 +14,7 @@ class Sub(Test):
 _x = 5
 __y = 6
 
+print('************')
 def _xx():
     print('******')
     
